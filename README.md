@@ -18,7 +18,7 @@ A simple product management system built with Express.js and MySQL, featuring a 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/express-mysql-starter.git
+git clone https://github.com/wHallidayy/Express_Mysql.git
 cd express-mysql-starter
 ```
 
